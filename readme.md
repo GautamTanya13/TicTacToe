@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Game
 
+##Try it on: https://tictactoe-d54.pages.dev/
+
 ## Description
 
 I'm a big fan of playing Tic-Tac-Toe with my friends, so I decided to create this mini project using front-end technologies: HTML, CSS, and JavaScript. It’s a fully functional game featuring a color theme inspired by my favorite colors.
